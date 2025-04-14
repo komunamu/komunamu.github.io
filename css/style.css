@@ -958,6 +958,10 @@ Portfolio section
   padding-bottom: 70px;
 }
 
+.profile-whiteSpace{
+  padding-bottom: 100px;
+}
+
 .portfolio-filter {
   padding: 0 15px;
   width: 100%;
